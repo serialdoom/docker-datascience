@@ -4,7 +4,7 @@
 #
 
 VERSION=0.2
-NAME=mhristof/datascience-2.7.6
+NAME=mhristof/datascience-2.7.12
 
 default: build
 
